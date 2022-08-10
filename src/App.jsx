@@ -25,6 +25,7 @@ function App() {
       </div>
       <p className="read-the-docs">
       I'm making this modification on the 'feature' branch
+      I'm making this second modification on the 'feature' branch
       </p>
     </div>
   )
