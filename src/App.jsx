@@ -24,7 +24,8 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+      I'm making this modification on the 'feature' branch
+      I'm making this second modification on the 'feature' branch
       </p>
     </div>
   )
